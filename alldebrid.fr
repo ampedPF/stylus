@@ -1,0 +1,33 @@
+body {
+    background-color: #2b333f;
+    background-image: none;
+}
+
+#container_header, #ariane, #menu {
+    background-color: #2b333f;
+    background-image: none;
+}
+
+#ariane, .ariane_youarehere, .ariane_home {
+    text-shadow: none !important;
+    color: #e6e6fa !important;
+}
+
+.title, .title_big, .title_medium, .title_upload, .downloaders_title2, .downloaders_text2, .function {
+    color: #595959 !important;
+}
+.torrent-container, .magnet-container {
+    background-color: #2b333f;
+    border-bottom: none;
+    box-shadow: none;
+}
+
+
+#torrent table tbody tr {
+    background-color: #2b333f;
+    color: #e6e6fa;
+}
+
+.textarea, .input2 {
+    background-color: #2b333f;
+}
